@@ -22,10 +22,10 @@
 
 # Obsidian Settings
 
-Core plugins > Daily notes 
-Date format: Custom
-Custom format: MM-DD
-New file location: daily (or whatever you want to name the folder)
+- Core plugins > Daily notes 
+- Date format: Custom
+- Custom format: MM-DD
+- New file location: daily (or whatever you want to name the folder)
 
 # Updates
 
